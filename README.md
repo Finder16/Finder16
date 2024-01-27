@@ -9,3 +9,5 @@ http://finder.seoul.kr/<br>
 WhiteHat School 1th<br>
 2023 Hacking Championship Junior 장려상<br>
 2023 고등해커페스티벌 금상<br>
+whs 1차 ctf 19등<br>
+2023 X-mas CTF 17등<br>
