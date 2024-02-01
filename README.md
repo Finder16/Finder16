@@ -5,6 +5,7 @@
 
 제2회 K-EDU 인공지능 로봇창작 FEST 장려상<br>
 WhiteHat School 1st<br>
+hello new() world 해커톤 수상<br>
 2023 Hacking Championship Junior 장려상<br>
 2023 고등해커페스티벌 금상<br>
 whs 1차 ctf 19등<br>
