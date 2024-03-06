@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-선린인터넷고등학교 정보보호학과 118기 이모션7기부장 이재영입니다<br>
-
+선린인터넷고등학교 정보보호학과 118기<br>
+이모션7기부장 이재영입니다<br>
 제2회 K-EDU 인공지능 로봇창작 FEST 장려상(도재코인)<br>
 WhiteHat School 1st<br>
 hello new() world 해커톤 수상(rickroot)<br>
