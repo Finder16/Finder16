@@ -12,6 +12,7 @@ hello new() world 해커톤 수상(rickroot)<br>
 2023 고등해커페스티벌 금상(ddp에서 길 잃어버린 dpp)<br>
 whs 1차 ctf 19등<br>
 2023 X-mas CTF 17등(문제구경왔습니다)<br>
+codeshell.kr 출제자<br>
 2023 선린인터넷고등학교 알고리즘 소수전공 이수<br>
 2023 선린인터넷고등학교 시스템해킹 소수전공 이수<br>
 2024 제주 RIS 청소년 인공지능 해커톤 경진대회 본선 6등(Snoo.py)<br>
